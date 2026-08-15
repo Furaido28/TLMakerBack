@@ -1,0 +1,11 @@
+D:\Project\Training\TLMaker\TLMakerBack\Domain\bin\Debug\net9.0\Domain.deps.json
+D:\Project\Training\TLMaker\TLMakerBack\Domain\bin\Debug\net9.0\Domain.dll
+D:\Project\Training\TLMaker\TLMakerBack\Domain\bin\Debug\net9.0\Domain.pdb
+D:\Project\Training\TLMaker\TLMakerBack\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Training\TLMaker\TLMakerBack\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+D:\Project\Training\TLMaker\TLMakerBack\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+D:\Project\Training\TLMaker\TLMakerBack\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+D:\Project\Training\TLMaker\TLMakerBack\Domain\obj\Debug\net9.0\Domain.dll
+D:\Project\Training\TLMaker\TLMakerBack\Domain\obj\Debug\net9.0\refint\Domain.dll
+D:\Project\Training\TLMaker\TLMakerBack\Domain\obj\Debug\net9.0\Domain.pdb
+D:\Project\Training\TLMaker\TLMakerBack\Domain\obj\Debug\net9.0\ref\Domain.dll
